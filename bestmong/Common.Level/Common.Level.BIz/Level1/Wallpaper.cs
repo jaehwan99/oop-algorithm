@@ -4,11 +4,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Common.Level.BIz.Level1
+namespace Common.Level.Biz.Level1
 {
     public class Wallpaper
     {
-        public int[] solution(string[] wallpaper)
+        public int[] Solution(string[] wallpaper)
         {
             var top = 0;
             var left = wallpaper.Length;

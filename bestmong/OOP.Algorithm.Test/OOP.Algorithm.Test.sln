@@ -5,7 +5,7 @@ VisualStudioVersion = 17.5.33627.172
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOP.Algorithm.Test", "OOP.Algorithm.Test\OOP.Algorithm.Test.csproj", "{DFC0CBEA-D833-4CAC-BF93-210587F8954F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Common.Level.BIz", "..\Common.Level\Common.Level.BIz\Common.Level.BIz.csproj", "{E590EEDB-663F-47F2-BC9E-C97316E3D664}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Common.Level.Biz", "..\Common.Level\Common.Level.BIz\Common.Level.Biz.csproj", "{E590EEDB-663F-47F2-BC9E-C97316E3D664}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

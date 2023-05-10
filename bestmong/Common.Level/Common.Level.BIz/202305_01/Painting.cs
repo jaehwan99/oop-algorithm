@@ -1,10 +1,10 @@
 using System;
 
-namespace Coding.Test.Level1
-{
+namespace Common.Level.Biz._202305_01
+{ 
     public class Painting
     {
-        public int solution(int n, int m, int[] section)
+        public int Solution(int n, int m, int[] section)
         {
             var currentValue = 0;
             var last = section[section.Length - 1];
@@ -39,7 +39,7 @@ namespace Coding.Test.Level1
             var m = 2;
             var section = new int[] { 2, 4, 10, 11, 14, 17, 40 };
 
-            var answer = solution(n, m, section);
+            var answer = Solution(n, m, section);
             return answer;
         }
     }

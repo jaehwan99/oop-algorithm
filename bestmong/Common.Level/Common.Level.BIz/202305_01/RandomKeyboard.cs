@@ -2,11 +2,11 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 
-namespace Coding.Test.Level1
+namespace Common.Level.Biz._202305_01
 {
     public class RandomKeyboard
     {
-        public int[] solution(string[] keymap, string[] targets)
+        public int[] Solution(string[] keymap, string[] targets)
         {
             int[] answer = new int[targets.Length];
             var map = new Dictionary<char, int>();
@@ -55,7 +55,7 @@ namespace Coding.Test.Level1
 
             var keyArray = new string[] { "AGZ", "BSSS" };
             var targets = new string[] { "ASA", "BGZ" };
-            return solution(keyArray, targets);
+            return Solution(keyArray, targets);
         }
     }
 }
