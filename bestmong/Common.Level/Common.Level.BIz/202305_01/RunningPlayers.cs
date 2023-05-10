@@ -2,12 +2,12 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 
-namespace Coding.Test.Level1
+namespace Common.Level.Biz._202305_01
 {
     public class Players
     {
 
-        public string[] solution(string[] players, string[] callings)
+        public string[] Solution(string[] players, string[] callings)
         {
             var map = new Dictionary<string, int>();
             var index = 0;
@@ -59,7 +59,7 @@ namespace Coding.Test.Level1
 
             var player = new string[] { "mumu", "soe", "poe", "kai", "mine" };
             var callings = new string[] { "kai", "kai", "mine", "mine" };
-            var answer = solution(player, callings);
+            var answer = Solution(player, callings);
             return answer;
         }
 
