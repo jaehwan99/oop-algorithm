@@ -14,3 +14,9 @@ file_nam : level_[1..4]_[problem]
   - 둘만의 암호 : https://school.programmers.co.kr/learn/courses/30/lessons/155652
   - 개인정보 수집 유효기간 : https://school.programmers.co.kr/learn/courses/30/lessons/150370
   - 뒤에 있는 큰 수 찾기 : https://school.programmers.co.kr/learn/courses/30/lessons/154539
+
+3. 5월 셋쨰주(202305_03) 알고리즘
+  - 신고 결과받기 : https://school.programmers.co.kr/learn/courses/30/lessons/92334
+  - 두 큐 합 같게 하기 : https://school.programmers.co.kr/learn/courses/30/lessons/118667
+  - 거리두기 확인하기 : https://school.programmers.co.kr/learn/courses/30/lessons/81302
+  - 주차 요금 계산기 : https://school.programmers.co.kr/learn/courses/30/lessons/92341
