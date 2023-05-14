@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Common.Level.Biz._202305_02
 {
-    public class PersonalInfo
+    public class LevelOnePersonalInfo
     {
         public List<int> Solution(string today, string[] terms, string[] privacies)
         {
