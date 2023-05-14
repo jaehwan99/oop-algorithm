@@ -5,6 +5,5 @@ internal class Program
     private static void Main(string[] args)
     {
         Console.WriteLine("Hello, World!");
-        var ansewr = new PersonalInfo().Solution("", null, null);
     }
 }
