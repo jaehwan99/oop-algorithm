@@ -6,8 +6,4 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
-  <ItemGroup>
-    <ProjectReference Include="..\..\OOP.Algorithm.Test\Model\OOP.Algorithm.Model\OOP.Algorithm.Model.csproj" />
-  </ItemGroup>
-
 </Project>

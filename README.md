@@ -29,3 +29,8 @@ file_nam : level_[1..4]_[problem]
   - 체육복 : https://school.programmers.co.kr/learn/courses/30/lessons/42862
   - 행렬의 덧셈 : https://school.programmers.co.kr/learn/courses/30/lessons/12950
   - 제일 작은 수 제거하기 : https://school.programmers.co.kr/learn/courses/30/lessons/12935
+
+5. 6월 둘째주(202306_02) 알고리즘
+  - 숫자 문자열과 영단어 : https://school.programmers.co.kr/learn/courses/30/lessons/81301
+  - 모의고사 : https://school.programmers.co.kr/learn/courses/30/lessons/42840
+  - N개의 최소공배수 : https://school.programmers.co.kr/learn/courses/30/lessons/12953
